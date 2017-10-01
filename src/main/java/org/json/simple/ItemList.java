@@ -40,6 +40,7 @@ public class ItemList {
 	}
 	
 	public String[] getArray(){
+		// Comment because it is fun
 		return (String[])this.items.toArray(new String[0]);
 	}
 	
